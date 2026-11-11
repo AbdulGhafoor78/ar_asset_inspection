@@ -474,3 +474,10 @@ A suggested demonstration of the implemented functionality:
 submission\
 **Project:** Enterprise AR Asset Inspection & Maintenance Platform
 
+## Related Repository
+
+**Node.js Backend:** [ar_asset_inspection_api](https://github.com/AbdulGhafoor78/ar_asset_inspection_api)
+
+The backend provides REST API endpoints for asset management using Node.js, Express, Prisma, and SQL Server.
+
+
